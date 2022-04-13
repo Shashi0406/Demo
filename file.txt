@@ -1,0 +1,4 @@
+file1
+git add .
+git commit -m "1st"
+again all done succefully.

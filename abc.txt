@@ -1,3 +1,0 @@
-hi shashi,
-
-this is just to test if file is able to upload into the github
