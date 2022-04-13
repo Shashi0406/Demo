@@ -1,0 +1,3 @@
+S3 bucket versioning enable
+
+Part 2
